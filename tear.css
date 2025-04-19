@@ -371,6 +371,10 @@ nav[class*="guilds_"] {
     display: none !important;
 }
 
+.inviteToolbar__133bf {
+    display: none !important;
+}
+
 /* Ensure the title area takes up the remaining space */
 .subtitleContainer_f75fb0 .upperContainer__9293f {
     display: flex !important;
