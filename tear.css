@@ -2,8 +2,9 @@
 div[class*='topic__'],
 div[class*='nicknames__'],
 div[class*='subtitleContainer_'] div[class*='children__']{
-  width: 0;
+  display: none; /* Try this instead */
 }
+
 
 /* fix forum list mode */
 div[class*='list_'][class*='auto_']{
